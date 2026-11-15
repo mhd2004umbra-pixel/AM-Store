@@ -1,7 +1,3 @@
 export default function CartMenu() {
-  return (
-  <div>
-
-  </div>
-  );
+  return <div></div>;
 }
